@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hi! I'm Ricardo Olivera</h1>
-  <h2>Programming Student and Tech Enthusiast</h2>
+  <h2>Full Stack Web Developer</h2>
+  <h3>Programming Student and Tech Enthusiast</h3>
+  <hr>
 </div>
 
 <div id="badges" align="center">
