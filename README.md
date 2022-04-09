@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>Hi! I'm Ricardo Olivera</h1>
+  <h2>Programming Student and Tech Enthusiast</h2>
+</div>
 
-<!--
-**r1ckt/r1ckt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ricardo-hector-olivera/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100014292158299">
+    <img href="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=r1ckt&style=flat-square&color=blue" alt="Visit Counter"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
