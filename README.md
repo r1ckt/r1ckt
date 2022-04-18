@@ -14,8 +14,6 @@
   <a href="https://www.facebook.com/profile.php?id=100014292158299"/>
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=r1ckt&style=flat-square&color=blue" alt="Visit Counter"/>
 </div>
 <hr>
 <div id="knowledge" align="center">
