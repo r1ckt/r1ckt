@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hi! I'm Ricardo Olivera</h1>
-  <h2>I love Java</h2>
+  <h2>I &#10084;&#65039; Java</h2>
   <hr>
 </div>
 
